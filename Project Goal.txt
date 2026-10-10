@@ -1,0 +1,13 @@
+
+### 💡 Ek important suggestion
+
+Aapka project abhi development stage mein hai, isliye GitHub par upload karne se pehle check karein ki:
+- Dashboard successfully run ho raha ho.
+- `requirements.txt` file available ho.
+- Excel file ka path sahi ho.
+- README mein setup instructions hon.
+
+**Final recommendation:**
+
+- **Repository Name:** `cricket-player-analytics-dashboard`
+- **Description:** `An interactive cricket analytics dashboard built with Python, Streamlit, Pandas, and Plotly, featuring player statistics, animated charts, profile photos, and Hindi performance insights.`
